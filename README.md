@@ -394,12 +394,11 @@ docker run -e DJANGO_SETTINGS_MODULE=config.settings.production opencare-africa:
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Ensure all tests pass
-6. Submit a pull request
+We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions on:
+- How to fork and clone the repository.
+- Our branching strategy.
+- Our commit message style.
+- How to submit a Pull Request.
 
 ### Development Guidelines
 - Follow PEP 8 style guidelines
